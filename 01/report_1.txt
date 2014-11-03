@@ -1,0 +1,24 @@
+学籍番号: 201311403
+名前:山岡洸瑛
+演習番号: 1 
+
+＜内容＞ 
+課題１を実行した結果を以下に示す。 
+$ ./q1-1 < input
+input matrix size
+-2.090909
+1.333333
+3.212121
+-6.484848
+1.515152
+
+課題2を実行した結果を以下に示す。
+$ ./q1-2
+input string1 imformation
+input string2 ifort
+output string = ifortio
+
+課題3を実行した結果を以下に示す。
+$ ./q1-3
+input number 123987
+789321
