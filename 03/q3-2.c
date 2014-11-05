@@ -59,7 +59,7 @@ void insert_list(int no, char *name, int x)
 
   q = NULL;
   for (p = head; p != NULL; p = p->next) {
-    if (p->point >= x)
+    if (p->point <= x)
       break;
     q = p;
   }

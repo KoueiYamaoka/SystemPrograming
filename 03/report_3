@@ -30,15 +30,14 @@ $ ./q3-1 sys-prog-ex3-data.txt
 
 課題2を実行した結果を以下に示す．
 <実行結果>
-
-$ ./q3-2 sys-prog-ex3-data.txt
-200711105 Suzuki 60
-200711101 Takahasi 60
-200711112 Suda 65
-200711118 Hayashi 66
-200711115 Matumoto 70
-200711106 Kato 70
-200711109 Akiyama 80
-200711114 Kimura 85
+$ ./q3-2 sys-prog-ex3-data.txt 
 200711117 Saitou 95
 200711113 Nakamura 95
+200711114 Kimura 85
+200711109 Akiyama 80
+200711115 Matumoto 70
+200711106 Kato 70
+200711118 Hayashi 66
+200711112 Suda 65
+200711105 Suzuki 60
+200711101 Takahasi 60
