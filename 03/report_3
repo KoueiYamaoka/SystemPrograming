@@ -1,0 +1,44 @@
+学籍番号: 201311403
+名前:山岡洸瑛
+演習番号: 3 
+
+＜内容＞ 
+課題１を実行した結果を以下に示す。 
+<実行結果> 
+$ ./q3-1 sys-prog-ex3-data.txt
+200711109 Akiyama 80
+200711118 Hayashi 66
+200711108 Kameda 44
+200711106 Kato 70
+200711119 Kawasaki 40
+200711114 Kimura 85
+200711103 Kojima 10
+200711107 Kudou 40
+200711110 Kuno 10
+200711115 Matumoto 70
+200711104 Miura 12
+200711120 Nagai 35
+200711113 Nakamura 95
+200711102 Ojima 30
+200711117 Saitou 95
+200711111 Sato 50
+200711112 Suda 65
+200711105 Suzuki 60
+200711101 Takahasi 60
+200711116 Yamada 33
+ 
+
+課題2を実行した結果を以下に示す．
+<実行結果>
+
+$ ./q3-2 sys-prog-ex3-data.txt
+200711105 Suzuki 60
+200711101 Takahasi 60
+200711112 Suda 65
+200711118 Hayashi 66
+200711115 Matumoto 70
+200711106 Kato 70
+200711109 Akiyama 80
+200711114 Kimura 85
+200711117 Saitou 95
+200711113 Nakamura 95
